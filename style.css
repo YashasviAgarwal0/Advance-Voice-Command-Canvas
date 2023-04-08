@@ -1,0 +1,23 @@
+body
+{
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+	padding: 250px;
+	padding-left: 400px;
+}
+
+button
+{
+	height: 50px;
+	width: 70px;
+}
